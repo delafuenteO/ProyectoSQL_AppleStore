@@ -10,7 +10,7 @@ Este proyecto consiste en analizar los datos de las aplicaciones disponibles en 
 
 ## Datos
 
-Los datos utilizados para este proyecto provienen de [https://github.com/delafuenteO/ProyectoSQL_AppleStore/tree/main)](^1^), que contiene un archivo CSV con información de más de 7000 aplicaciones de iOS. El archivo tiene las siguientes columnas:
+Los datos utilizados para este proyecto provienen de [https://github.com/delafuenteO/ProyectoSQL_AppleStore/tree/main](^1^), que contiene un archivo CSV con información de más de 7000 aplicaciones de iOS. El archivo tiene las siguientes columnas:
 
 - "id" : ID de la aplicación
 - "track_name": Nombre de la aplicación
