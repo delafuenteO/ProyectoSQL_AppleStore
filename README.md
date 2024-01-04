@@ -10,8 +10,9 @@ Este proyecto consiste en trabajar bajo el supuesto de que un desarrollador de a
 
 ## Datos
 
-Los datos utilizados para este proyecto provienen de este repositorio, que contiene un archivo CSV con información de más de 7000 aplicaciones de iOS. El archivo tiene las siguientes columnas:
+Los datos utilizados para este proyecto provienen de este repositorio, que contiene un archivo distintos archivos CSV con información de más de 7000 aplicaciones de iOS. Los archivos tiene las siguientes columnas:
 
+### appleStore.csv
 - "id" : ID de la aplicación
 - "track_name": Nombre de la aplicación
 - "size_bytes": Tamaño (en bytes)
@@ -29,6 +30,12 @@ Los datos utilizados para este proyecto provienen de este repositorio, que conti
 - "lang.num": Número de idiomas disponibles
 - "vpp_lic": Licencia VPP activada
 
+### appleStore_description.csv
+- id : ID de la aplicación
+- track_name: Nombre de la aplicación
+- size_bytes: Tamaño (en Bytes)
+- app_desc: Descripción
+
 ## Requisitos
 
 Para ejecutar este proyecto, se necesita tener instalado:
@@ -41,5 +48,5 @@ Para ejecutar este proyecto, se necesita tener instalado:
 Para instalar este proyecto, se debe clonar este repositorio en tu máquina local usando el siguiente comando:
 
 ```bash
-git clone https://github.com/delafuenteO/proyecto-sql-apple-store.git
+git clone https://github.com/delafuenteO/ProyectoSQL_AppleStore.git
 ```
